@@ -1,5 +1,5 @@
 {
-  "name": "ocpi_protocol_integration",
+  "name": "opci_protocol",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhasudhanshu08/OCPI_Protocol_Integration.git"
+    "url": "git+https://github.com/Holmium-Technologies18/OPCI_Protocol.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jhasudhanshu08/OCPI_Protocol_Integration/issues"
+    "url": "https://github.com/Holmium-Technologies18/OPCI_Protocol/issues"
   },
-  "homepage": "https://github.com/jhasudhanshu08/OCPI_Protocol_Integration#readme"
+  "homepage": "https://github.com/Holmium-Technologies18/OPCI_Protocol#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1"
+  }
 }
