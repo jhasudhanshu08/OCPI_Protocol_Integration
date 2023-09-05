@@ -1,5 +1,5 @@
 const validToken = {
-    versionToken: "my-secret-token",
+    versionToken: "Token my-secret-token",
     credentialToken: "my-credential-token"
 }
 
