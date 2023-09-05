@@ -8,7 +8,7 @@ exports.credentialService = async (req) => {
   };
   let data = {
     token: "9e80aca8-28be-11e9-b210-d663bd873d93",
-    url: "https://holmiumtechnologies.com/ocpi/versions",
+    url: "https://dev-api-holmiumtechnologies.cyclic.app/ocpi/versions",
     roles: [
       {
         role: "CPO",
